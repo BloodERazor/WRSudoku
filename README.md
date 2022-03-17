@@ -1,2 +1,2 @@
 # WRSudoku
-Random Sudoku Generator
+Random Sudoku Generator created using C# & Windows Forms.
